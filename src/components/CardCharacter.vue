@@ -4,6 +4,7 @@
         <div class = "character_info">
           <h3>  {{character.name}} </h3>
           <div class="status">
+           <!-- SE AGREGA UN SPAN PARA MOSTRAR EL ESTADO DEL PERSONAJE -->
             <span
                 :class = "
                 character.status === 'Alive' ? 'status--alive' :

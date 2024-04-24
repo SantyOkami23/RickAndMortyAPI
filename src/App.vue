@@ -20,6 +20,9 @@ export default {
 }
 </script>
 
+
+
+
 <style lang="scss">
 :root {
   --background-body: #24282F;
